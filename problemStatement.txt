@@ -1,0 +1,11 @@
+Problem Statement:
+When deciding on a restaurant with a group, it can be difficult to
+find a food type, restaurant atmosphere, and price to fit everyone.
+
+Solution:
+In order to fairly decide upon a place to eat each user is allocated a
+beginning amount of decision points. These decision points can be allocated
+to a number of different categories. The points are equal and finite per-user
+so that their overall decision weight can be allocated to the area they 
+care about the most or distributed evenly amongst their preferences. 
+
